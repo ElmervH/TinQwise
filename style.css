@@ -1,0 +1,15 @@
+
+* { box-sizing: border-box; }
+
+p {
+    font-size: 20px;
+    margin-bottom: 48px;
+  }
+    
+  body {
+  text-align: center;
+  width: 300px;
+  font-family: "Brown", Gadget, sans-serif;
+  color: black;
+  margin-top: 150px;
+  }
